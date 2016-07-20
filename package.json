@@ -1,0 +1,23 @@
+{
+  "name": "unveil",
+  "version": "1.3.0",
+  "description": "A very lightweight plugin to lazy load images for jQuery or Zepto.js",
+  "main": "jquery.unveil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbiz/unveil.git"
+  },
+  "keywords": [
+    "lazy-load",
+    "images"
+  ],
+  "author": "https://github.com/luis-almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbiz/unveil/issues"
+  },
+  "homepage": "https://github.com/fbiz/unveil#readme"
+}
